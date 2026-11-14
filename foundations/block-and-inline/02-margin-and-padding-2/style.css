@@ -17,4 +17,7 @@ body {
 
 button {
   background: white;
+  display: flex;
+  margin: 0 auto;
+  padding: 5px 20px;
 }
